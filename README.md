@@ -60,3 +60,8 @@ This project aims to visualize seismic activity and tectonic plate boundaries us
 1. Clone the repository:
    ```bash
    git clone https://github.com/widchy95/leaflet-challenge.git
+
+   ## Prepared by 
+
+**Widchy Joachim**
+*Data Analyst*
