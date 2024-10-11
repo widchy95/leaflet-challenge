@@ -14,8 +14,8 @@ This project aims to visualize seismic activity and tectonic plate boundaries us
 
 ## Project website view
 
-[Leaflet-Part-1](https://widchy95.github.io/leaflet-challenge/Leaflet-Part-1/)
-[Leaflet-Part-2](https://widchy95.github.io/leaflet-challenge/Leaflet-Part-2/)
+- [Leaflet-Part-1](https://widchy95.github.io/leaflet-challenge/Leaflet-Part-1/)
+- [Leaflet-Part-2](https://widchy95.github.io/leaflet-challenge/Leaflet-Part-2/)
 
 
 ## Work Process
