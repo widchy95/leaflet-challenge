@@ -12,14 +12,12 @@ This project aims to visualize seismic activity and tectonic plate boundaries us
 - `static/css/style.css`: Custom CSS for styling the map and legend.
 - `static/js/logic.js`: JavaScript logic to fetch, process, and visualize earthquake and tectonic plate data.
 
-<h1>Directory listing for /</h1>
+## Project website view
 <hr>
 <ul>
-<li><a href=".git/">.git/</a></li>
-<li><a href=".gitattributes">.gitattributes</a></li>
-<li><a href="Leaflet-Part-1/">Leaflet-Part-1/</a></li>
-<li><a href="Leaflet-Part-2/">Leaflet-Part-2/</a></li>
-<li><a href="README.md">README.md</a></li>
+<li><a href="[Leaflet-Part-1](https://widchy95.github.io/leaflet-challenge/Leaflet-Part-1/)/">Leaflet-Part-1/</a></li>
+<li><a href="[Leaflet-Part-2](https://widchy95.github.io/leaflet-challenge/Leaflet-Part-2/)/">Leaflet-Part-2/</a></li>
+ 
 </ul>
 
 ## Work Process
